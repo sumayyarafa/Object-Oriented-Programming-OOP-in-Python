@@ -18,27 +18,26 @@ non-static fields defined in its super class
 """
 
 
-
 class grandpapa:
-   def __init__(self):
-       print("creating grandpapa")
-   def drive(self, count):
-       print("Driving bus with ", count, " person")
+    def __init__(self):
+        print("creating grandpapa")
+    def drive(self, count):
+        print("Driving bus with ", count, " person")
 
 class father(grandpapa):
-   def drive(self, count):
-       if count <= 8:
-           print("Driving NOah with ", count, " person")
-       else:
-           print("Driving NOah with ", 8, " person")
-           super().drive(count - 8)
+    def drive(self, count):
+        if count <= 8:
+            print("Driving NOah with ", count, " person")
+        else:
+            print("Driving NOah with ", 8, " person")
+            super().drive(count - 8)
 class child(father):
-   def __init__(self):
-       pass
-   def drive(self, count):
-       if count <= 2:
+    def __init__(self):
+        pass
+    def drive(self, count):
+        if count <= 2:
            print("Driving Lambo with ", count, " person")
-       else:
+        else:
            print("Driving Lambo with ", 2, " person")
            super().drive(count - 2)
 
@@ -82,6 +81,7 @@ class D(B, C):
 # Using the classes
 obj = D()
 obj.greet() # What will this print?
+
 
 
 

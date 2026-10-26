@@ -17,6 +17,7 @@ The main purpose of this repository is to document my learning journey, strength
 - Inheritance
 - Method Overriding and `super()`
 - Polymorphism
+- singleton
 - Special Methods (`__str__`, `__repr__`, etc.)
 - Operator Overloading
 - Exception Handling and Custom Exceptions
@@ -42,6 +43,7 @@ OOP-Python/
 ├── Inheritance/
 ├── Polymorphism/
 ├── Operator_Overloading/
+├── singleton/
 ├── Exception_Handling/
 ├── Generators_and_Iterators/
 ├── Practice_Problems/
