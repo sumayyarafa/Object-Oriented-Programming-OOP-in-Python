@@ -1,7 +1,5 @@
 #Adding attributes to an object
 from operator import add, sub
-
-
 class Student:
     pass
 
