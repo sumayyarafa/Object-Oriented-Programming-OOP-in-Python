@@ -1,12 +1,12 @@
 # Object-Oriented Programming (OOP) in Python
 
-## 📚 About This Repository
+## About This Repository
 
 This repository contains my university coursework, practice problems, and coding exercises for **Object-Oriented Programming (OOP) using Python**.
 
 The main purpose of this repository is to document my learning journey, strengthen my programming fundamentals, and keep my academic code organized for future reference.
 
-## 🎯 Topics Covered
+## Topics Covered
 
 - Classes and Objects
 - Constructors (`__init__`)
@@ -27,55 +27,10 @@ The main purpose of this repository is to document my learning journey, strength
 
 *Note: Topics may be updated as I progress through the course.*
 
-## 🛠️ Technologies Used
-
-- **Language:** Python
-- **IDE:** PyCharm
-- **Version Control:** Git and GitHub
-
-## 📂 Repository Structure
-
-```text
-OOP-Python/
-│
-├── Classes_and_Objects/
-├── Shallow copy and deep copy/
-├── Inheritance/
-├── Polymorphism/
-├── Operator_Overloading/
-├── singleton/
-├── Exception_Handling/
-├── Generators_and_Iterators/
-├── Practice_Problems/
-├── Projects/
-└── README.md
-```
 
 *The folder structure may change as more code and exercises are added.*
 
-## 🚀 How to Run the Code
-
-1. Clone this repository:
-
-   ```bash
-   git clone <your-repository-url>
-   ```
-
-2. Open the project folder:
-
-   ```bash
-   cd OOP-Python
-   ```
-
-3. Run any Python file:
-
-   ```bash
-   python filename.py
-   ```
-
-Make sure Python is installed on your computer.
-
-## 🎓 Learning Objectives
+##  Learning Objectives
 
 Through this course, I aim to:
 
@@ -85,12 +40,12 @@ Through this course, I aim to:
 - Improve my problem-solving and debugging skills.
 - Build a strong foundation for future Data Science projects.
 
-## 📈 Learning Journey
+##  Learning Journey
 
 This repository represents my progress in learning Python and OOP as part of my university studies. I will continue adding coursework, practice solutions, and projects as I learn new concepts.
 
 
-## 📄 License
+##  License
 
 This repository is intended primarily for educational and learning purposes.
 # Oriented-Programming-OOP-in-Python
