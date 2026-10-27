@@ -22,7 +22,6 @@ The main purpose of this repository is to document my learning journey, strength
 - Operator Overloading
 - Exception Handling and Custom Exceptions
 - Generators and Iterators
-- Lambda Functions
 - Object-Oriented Programming Projects and Practice Problems
 
 *Note: Topics may be updated as I progress through the course.*
